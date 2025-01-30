@@ -19,7 +19,6 @@ A curated list of official government websites of Bangladesh.
 
 ## Government Portals  
 - [Bangladesh National Portal](https://bangladesh.gov.bd) – Official portal of the Bangladesh government.  
-- [e-Government Web Portal](https://egov.bd) – Information on digital government services.  
 - [Bangladesh Parliament](https://www.parliament.gov.bd) – Information on legislative activities.  
 
 ## Ministries  
